@@ -161,6 +161,6 @@ This project was developed to apply core **Java programming and object-oriented 
 
 The application focuses on designing relationships between objects, managing application state, processing user commands, working with Java collections, and implementing the business logic required to coordinate users, drivers, rides, and deliveries.
 
-## Author
+# Author
 **Abdelrahman Abdelaal**
 Computer Science Co-op Student - Toronto Metropolitan University
