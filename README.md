@@ -160,3 +160,7 @@ Exit the application with:
 This project was developed to apply core **Java programming and object-oriented design principles** by modelling the behaviour and interactions of a ride-sharing system.
 
 The application focuses on designing relationships between objects, managing application state, processing user commands, working with Java collections, and implementing the business logic required to coordinate users, drivers, rides, and deliveries.
+
+## Author
+**Abdelrahman Abdelaal**
+Computer Science Co-op Student - Toronto Metropolitan University
